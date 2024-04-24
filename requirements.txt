@@ -1,0 +1,5 @@
+streamlit==1.33.0
+opencv-python-headless==4.5.3.56
+pyaudio==0.2.11
+wave==0.0.2
+moviepy==1.0.3
